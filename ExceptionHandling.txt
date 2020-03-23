@@ -1,0 +1,26 @@
+
+
+syntax ==> the way of writing , predefined rules  int, string , Float
+
+
+semantics ==> meaning 
+
+c language
+printt("dsadada")  //print , output display console
+
+
+c++
+cout<<"dasdadasad"; //print , output display console
+
+
+logical errors ==> poor logic programmer 10+3 ==> 10-3 ==> 13 ==> 7 //line by line read your code
+
+
+Runtime errors ==> exception ==> unwanted things ==> sudden changes ==> wish(X) ==> divide number by zero
+
+5/0 ==> infinte
+
+going to rename a file which dont exxist
+
+
+from traceback import print_exc
